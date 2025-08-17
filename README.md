@@ -1,3 +1,7 @@
+# THIS IS BROKEN RIGHT NOW PLEASE WAIT TILL I FUCKING FIX IT.
+
+
+
 # Pavlov Role Playlists
 
 Automatically opens Spotify playlists based on your Pavlov role icons. Detects roles on your screen and launches the corresponding playlist in the Spotify desktop app.
