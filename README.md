@@ -1,6 +1,3 @@
-# THIS IS BROKEN RIGHT NOW PLEASE WAIT TILL I FUCKING FIX IT.
-
-
 
 # Pavlov Role Playlists
 
