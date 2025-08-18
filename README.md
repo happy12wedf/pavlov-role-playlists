@@ -62,8 +62,8 @@ Press `Ctrl+C` to stop the script.
 * The script only opens playlists once per role change to prevent multiple launches.
 * Works entirely locally; does not interact with the game or network.
 * Dependencies are included in the folder; no additional installs needed.
-* Tested on Windows, macOS, and Linux.
-* This should not ban you, EAC detects tampering so that's why this is used with screen reading.
+* Tested on Windows, macOS, and Linux. (lie)
+* maybe
 
 ## Contributing
 
