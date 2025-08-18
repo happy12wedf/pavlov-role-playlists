@@ -1,11 +1,3 @@
-note from zeze: current script version will only work on still icon images im working on a better version that has basically 100% accuracy i just need to get the rest of the roles screenshots
-
-
-
-
-
-
-
 # THIS WILL NOT WORK WITH AVENGER, WE DO NOT HAVE THE ICON. IF YOU HAVE THE ICON PLEASE HAND IT OVER BY ADDING buddyzeez ON DISCORD!
 
 
