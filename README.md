@@ -12,9 +12,6 @@ make a spotify playlist  (eg. https://open.spotify.com/playlist/5iNepJl1wuY6Fw4e
 get the string after playlist and before ? so 5iNepJl1wuY6Fw4eyJXV0z
 and remove YOUR_INNOCENT_URI and replace it with the string so spotify:playlist:5iNepJl1wuY6Fw4eyJXV0z
 
-
-# it looks at your screen and does stuff ye and it see that role ye so it chosoes the list
-
 # how to run
 
 just run the bat file
